@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">assigment4</string>
+    <string-array name="Entries">
+        <item>Tenge</item>
+        <item>Euro</item>
+        <item>Dollar</item>
+        <item>Ruble</item>
+    </string-array>
+    <string-array name="Temperatures">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+</resources>
